@@ -1,4 +1,4 @@
 # videoguided
 videoguided
 
-this is a demo
+this is the demo
